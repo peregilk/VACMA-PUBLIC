@@ -21,3 +21,6 @@ year={2021}
   year={2020}
 }
 ```
+
+## Funding
+This project has received funding from the European Commission for the call H2020-MSCA-IF-2017 and the funding scheme MSCA-IF-EF-ST for the VACMA project (grant agreement ID: 797876). 
